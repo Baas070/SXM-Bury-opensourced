@@ -4,3 +4,6 @@ KEYBIND TO MOVE AND PLACE THE CLONED PLAYER E TO START MOVING AFTER USING COMMAN
 arrow up down left right are for directional movements page up and down are for height change 
 
 command to clone player = /PlaceBody
+
+For Support Join my discord
+https://discord.gg/NdqVp9ZxP8
